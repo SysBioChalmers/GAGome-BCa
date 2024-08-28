@@ -13,3 +13,8 @@ Gatto, F., Bratulic, S., Maccari, F., Galeotti, F., Volpi, N., Nielsen, J., Lota
 Manuscript doi: https://doi.org/10.1016/j.euros.2024.08.001
 
 Manuscript link: https://www.eu-openscience.europeanurology.com/article/S2666-1683(24)00617-7/
+
+Contact:
+francesco.gatto@ki.se (F. Gatto), 
+henrik.kjolhede@vgregion.se (H. Kjölhede)
+sinisa.bratulic@elypta.com (S. Bratulic)
